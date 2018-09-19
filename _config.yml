@@ -18,9 +18,9 @@ social-facebook: kmmguumnn # add your Facebook handle
 social-github: gyumin-kim # add your Github handle
 social-linkedin: gyumin-kim # add your Linkedin handle
 social-email: starkying@gmail.com # add your Email address
-
+  
 # Disqus
-discus-identifier: gyumin-kim # add your discus identifier
+discus-identifier: https-gyumin-kim-github-io # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
