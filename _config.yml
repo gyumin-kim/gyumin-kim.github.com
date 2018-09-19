@@ -11,8 +11,8 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Gyumin Kim # add your name
 author-img: thread-crop.jpg # add your photo
-about-author: TEST. I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter:  # add your Twitter handle
+about-author: Current bachelor student at INU. Getting ready to become a web application developer. # add description
+social-twitter: / # add your Twitter handle
 social-facebook: kmmguumnn # add your Facebook handle
 social-github: gyumin-kim # add your Github handle
 social-linkedin: gyumin-kim # add your Linkedin handle
