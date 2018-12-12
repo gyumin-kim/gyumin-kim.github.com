@@ -3,7 +3,7 @@ layout: post
 title: "POJO 이해하기"
 date: 2018-12-12 11:25:00 +0300
 description: Spring 공식문서가 알려주는 POJO 이야기 # Add post description (optional)
-img: https://diylogodesigns.com/wp-content/uploads/2017/07/java-logo-vector-768x768.png # Add image post (optional)
+img: java-logo.png # Add image post (optional)
 ---
 
 # POJO 이해하기
