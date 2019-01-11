@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "@PathVariable에 defaultValue 설정하기"
+title: "300 Core Java Interview Questions | Set 1"
 date: 2018-12-15 00:30:00 +0300
 description: Java 8의 Optional 활용 # Add post description (optional)
 img: java-optional.jpg # Add image post (optional)
