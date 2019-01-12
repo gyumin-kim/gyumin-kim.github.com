@@ -10,3 +10,5 @@ img: java-logo.png # Add image post (optional)
 
 ---
 
+이 글은 Javatpoint의 [300 Core Java Interview Questions | Set 1](https://www.javatpoint.com/corejava-interview-questions) 을 번역한 것입니다.
+
