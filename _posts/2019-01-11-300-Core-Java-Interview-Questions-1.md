@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "@PathVariable에 defaultValue 설정하기"
 date: 2019-01-11 19:30:00 +0300
 description: Java 인터뷰 주요 질문 정리 (1) # Add post description (optional)
 img: java-logo.png # Add image post (optional)
