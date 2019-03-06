@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Tree 문제 재귀로 풀기: Top-down / Bottom-up"
-date: 2019-02-10 13:01:00 +0300
-description: Tree 문제를 접근하는 2가지 방식, Top-down / Bottom-up # Add post description (optional)
-img: 7fYjq.png # Add image post (optional)
+title: "트랜잭션(Transaction)이란?"
+date: 2019-03-06 22:50:00 +0300
+description: 트랜잭션 주요사항 요약 정리 # Add post description (optional)
+img: mobile-transaction-thinksto.jpg # Add image post (optional)
 ---
 
 
